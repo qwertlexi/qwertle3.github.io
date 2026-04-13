@@ -342,17 +342,14 @@
   */
   var TRACKS = [
     { title: "GO", artist: "BLACKPINK", src: "music/BLACKPINK - GO.mp3", cover: "⾛" },
-    { title: "BIRDS OF A FEATHER", artist: "Billie Eilish", src: "music/Billie Eilish - BIRDS OF A FEATHER.mp3", cover: "♾️" },
-    { title: "Best Part", artist: "Daniel Caesar/H.E.R.", src: "music/Daniel Caesar; H.E.R. - Best Part.mp3", cover: "♾️" },
+    { title: "BIRDS OF A FEATHER", artist: "Billie Eilish", src: "music/Billie Eilish - BIRDS OF A FEATHER.mp3", cover: "🪶" },
+    { title: "Best Part", artist: "Daniel Caesar/H.E.R.", src: "music/Daniel Caesar; H.E.R. - Best Part.mp3", cover: "💑" },
     { title: "Oblivion", artist: "Grimes", src: "music/Grimes - Oblivion.mp3", cover: "♾️" },
     { title: "Butterfly", artist: "Grimes", src: "music/Grimes - Butterfly.mp3", cover: "🦋" },
-    { title: "Genesis", artist: "Grimes", src: "music/Grimes - Genesis.mp3", cover: "🧬" },
     { title: "Realiti", artist: "Grimes", src: "music/Grimes - Realiti.mp3", cover: "🫧" },
     { title: "Hammer", artist: "Lorde", src: "music/Lorde - Hammer.mp3", cover: "🔨" },
-    { title: "Green Light", artist: "Lorde", src: "music/Lorde - Green Light.mp3", cover: "💚" },
     { title: "Episode 33", artist: "She Her Her Hers", src: "music/She Her Her Hers - Episode 33.mp3", cover: "🌊" }
     { title: "About You", artist: "The 1975", src: "music/The 1975 - About You.mp3", cover: "🫂" },
-    { title: "Running Up That Hill (A Deal With God)", artist: "Kate Bush", src: "music/Kate Bush - Running Up That Hill (A Deal With God).mp3", cover: "💿" },
     { title: "Track 04", artist: "Artist", src: "music/04.mp3", cover: "🎹" },
     { title: "Track 05", artist: "Artist", src: "music/05.mp3", cover: "🎺" }
   ];
