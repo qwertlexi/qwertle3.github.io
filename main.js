@@ -341,9 +341,9 @@
      cover 是显示在播放器里的 emoji，随意改。
   */
   var TRACKS = [
-    { title: "Track 01", artist: "Artist", src: "music/01.mp3", cover: "🎵" },
-    { title: "Track 02", artist: "Artist", src: "music/02.mp3", cover: "🎶" },
-    { title: "Track 03", artist: "Artist", src: "music/03.mp3", cover: "🎸" },
+    { title: "Oblivion", artist: "Grimes", src: "audio/Grimes - Oblivion.mp3", cover: "♾️" },
+    { title: "Butterfly", artist: "Grimes", src: "audio/Grimes - Butterfly.mp3", cover: "🦋" },
+    { title: "Rraliti", artist: "Grimes", src: "audio/Grimes - Realiti.mp3", cover: "🫧" },
     { title: "Track 04", artist: "Artist", src: "music/04.mp3", cover: "🎹" },
     { title: "Track 05", artist: "Artist", src: "music/05.mp3", cover: "🎺" }
   ];
